@@ -7,7 +7,8 @@
   GitHub Structure
 </h2>
 <p align="center">
-List organising all repos on my GitHub. 
+List organising all my repos. 
+
 <br/>
 List with all repos and projects <a href="https://github.com/diegommagno/github-repo-list/projects-list" alt="GitHub repositories and projects list">here</a>.
 </p>
@@ -45,7 +46,7 @@ Repository for commercial projects.
 
 ---
 ### Ocean Labs
-Repository for public projects from different sources I created, understood and can reproduce.
+Repositories for public and private projects.
 
 #### Root
 - [Ocean Labs](https://github.com/diegommagno/ocean-labs)
