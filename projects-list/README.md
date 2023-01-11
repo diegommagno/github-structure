@@ -121,8 +121,8 @@ Repositories for public and private projects.
 - [Ocean Labs Private](https://github.com/diegommagno/ocean-labs-private)
 
 #### Websites
-- [Apple](https://github.com/diegommagno/ocean-labs/tree/main/main/bedimcode/websites/apple)
-- [Sushi](https://github.com/diegommagno/ocean-labs/tree/main/main/bedimcode/websites/sushi)
+- [Apple](https://github.com/diegommagno/ocean-labs/tree/main/main/websites/apple)
+- [Sushi](https://github.com/diegommagno/ocean-labs/tree/main/main/websites/sushi)
 
 <br/>
 
