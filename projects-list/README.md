@@ -32,6 +32,10 @@ Repository for projects I understood and can reproduce, created while studying a
 - [RocketLinks](https://github.com/diegommagno/rocketseat/tree/main/events/explorer-marathon/explorer-marathon-02/rocketlinks)
 - [RocketCoffee](https://github.com/diegommagno/rocketseat/tree/main/events/explorer-marathon/explorer-marathon-03/rocketcoffee)
 
+##### boracodar.dev
+- [01 - Music Player](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/01-music-player)
+- [02 - Product Card](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/02-product-card)
+
 ##### DevLinks
 - [DevLinks](https://github.com/diegommagno/rocketseat/tree/main/events/devlinks)
 
