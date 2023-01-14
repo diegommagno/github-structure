@@ -91,6 +91,7 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Project 01 - SPA Concepts](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-06/spa-concepts)
 - [Project 02 - SPA Universe](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-06/spa-universe)
 - [Project 03 - GitHub Favorites](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-06/github-favorites)
+- [Project 04 - GitFav](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-06/gitfav)
 
 <br/>
 
