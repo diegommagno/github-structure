@@ -85,6 +85,8 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Project 04 - Calculate BMI (applying Modules)](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-05/calcular-imc/calcular-imc-modules)
 - [Project 05 - FocusTimer](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-05/focustimer)
 - [Project 06 - FocusTimer 2.0](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-05/focustimer-2)
+- [Project 07 - Fortune Cookie](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-05/biscoito-da-sorte)
+
 
 ##### Stage 06
 
