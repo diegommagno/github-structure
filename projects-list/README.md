@@ -35,6 +35,14 @@ Repository for projects I understood and can reproduce, created while studying a
 ##### boracodar.dev
 - [01 - Music Player](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/01-music-player)
 - [02 - Product Card](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/02-product-card)
+- [03 - Buttons and Cursors](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/03-buttons-and-cursors)
+- [04 - Chat](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/04-chat)
+- [05 - Calculator](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/05-calculator)
+- [06 - Boarding Pass](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/06-boarding-pass)
+- [07 - Carnival Party Finder](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/07-bloco-de-carnaval)
+- [08 - Dashboard](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/08-dashboard)
+- [09 - Currency Converter](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/09-currency-converter)
+- [10 - Weather Page](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/10-weather-page)
 
 ##### DevLinks
 - [DevLinks](https://github.com/diegommagno/rocketseat/tree/main/events/devlinks)
