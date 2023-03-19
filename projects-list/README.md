@@ -55,6 +55,15 @@ Repository for projects I understood and can reproduce, created while studying a
 - [NLW eSports Explorer - Cinema](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-esports/explorer/challenge/en)
 - [NLW Return Origin - DoctorCare](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-return/origin)
 
+##### Zero to First Job Journey
+- [Repo](https://github.com/diegommagno/rocketseat/tree/main/events/zero-to-first-job-journey)
+- [Horror Game of the Year](https://diegommagno.com/github/rocketseat/events/zero-to-first-job-journey/horror-game-of-the-year)
+- [Travel Expert](https://diegommagno.com/github/rocketseat/events/zero-to-first-job-journey/travel-expert)
+- [Healthy Recipes](https://diegommagno.com/github/rocketseat/events/zero-to-first-job-journey/healthy-recipes)
+
+##### YouTube
+- [NLW World Cup - Games Calendar](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-copa/explorer)
+
 <br/>
 
 ### Explorer Course
