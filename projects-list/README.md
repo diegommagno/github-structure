@@ -43,6 +43,7 @@ Repository for projects I understood and can reproduce, created while studying a
 - [08 - Dashboard](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/08-dashboard)
 - [09 - Currency Converter](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/09-currency-converter)
 - [10 - Weather Page](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/10-weather-page)
+- [11 - Login Page](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/11-login-page)
 
 ##### DevLinks
 - [DevLinks](https://github.com/diegommagno/rocketseat/tree/main/events/devlinks)
