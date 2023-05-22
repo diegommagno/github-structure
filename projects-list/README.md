@@ -33,6 +33,7 @@ Repository for projects I understood and can reproduce, created while studying a
 - [RocketCoffee](https://github.com/diegommagno/rocketseat/tree/main/events/explorer-marathon/explorer-marathon-03/rocketcoffee)
 
 ##### boracodar.dev
+Weekly challenges proposed by Rocketseat, the Figma is provided and I will code from scratch.
 - [01 - Music Player](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/01-music-player)
 - [02 - Product Card](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/02-product-card)
 - [03 - Buttons and Cursors](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/03-buttons-and-cursors)
@@ -44,11 +45,21 @@ Repository for projects I understood and can reproduce, created while studying a
 - [09 - Currency Converter](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/09-currency-converter)
 - [10 - Weather Page](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/10-weather-page)
 - [11 - Login Page](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/11-login-page)
+- [12 - Kanban](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/12-kanban)
+- [13 - Credit Card Form](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/13-credit-card-form)
+- [14 - Upload Component](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/14-upload-component)
+- [15 - Pricing Table](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/15-pricing-table)
+- [16 - Contacts Page](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/16-contacts-page)
+- [17 - Date Picker](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/17-date-picker)
+- [18 - Character Card](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/18-character-card)
+- [19 - Transport Widget](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/19-transport-widget)
+- [18 - Hover Gallery](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/20-hover-gallery)
 
 ##### DevLinks
 - [DevLinks](https://github.com/diegommagno/rocketseat/tree/main/events/devlinks)
 
 ##### Next Level Week
+- [NLW Spacetime - Time Capsule](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2023/nlw-spacetime/explorer)
 - [NLW World Cup - Games Calendar](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-copa/explorer)
 - [NLW World Cup - Card](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-copa/card/pt-br)
 - [NLW eSports Explorer - Games](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-esports/explorer)
