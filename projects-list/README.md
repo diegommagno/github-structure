@@ -178,7 +178,7 @@ Repositories for public and private projects.
 
 ### Origamid
 ##### Projects
-- [Calculator](https://github.com/diegommagno/ocean-labs/tree/main/main/origamid/events/calculator)
+- [Calculator](https://github.com/diegommagno/dmm-studio/tree/main/main/origamid/events/calculator)
 
 <br/>
 
