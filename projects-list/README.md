@@ -10,7 +10,7 @@ List organising all my repos and projects.
 </p>
 
 ## Rocketseat
-Repository for projects I understood and can reproduce, created while studying at the programming school Rocketseat.
+Repository for projects I understood and can reproduce, created while studying at the coding school Rocketseat.
 
 ### Root
 - [Rocketseat](https://github.com/diegommagno/rocketseat)
@@ -61,7 +61,9 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Healthy Recipes](https://github.com/diegommagno/rocketseat/tree/main/events/zero-to-first-job-journey)
 
 ##### YouTube
-- [NLW World Cup - Games Calendar](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-copa/explorer)
+- [Simple Search Bar](https://github.com/diegommagno/rocketseat/tree/main/events/youtube/simple-search-bar)
+- [Switching Themes CSS Only](https://github.com/diegommagno/rocketseat/tree/main/events/youtube/switching-themes-css-only)
+- [Switching Themes CSS and JS](https://github.com/diegommagno/rocketseat/tree/main/events/youtube/switching-themes-css-and-js)
 
 <br/>
 
@@ -137,12 +139,12 @@ Repository for commercial projects.
 <br/>
 
 ---
-## Ocean Labs
+## DMM Studio
 Repositories for public and private projects.
 
 ### Root
-- [Ocean Labs](https://github.com/diegommagno/ocean-labs)
-- [Ocean Labs Private](https://github.com/diegommagno/ocean-labs-private)
+- [DMM Studio](https://github.com/diegommagno/dmm-studio)
+- [DMM Studio Private](https://github.com/diegommagno/dmm-studio-private)
 
 #### Websites
 - [Apple](https://github.com/diegommagno/ocean-labs/tree/main/main/websites/apple)
