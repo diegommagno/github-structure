@@ -14,7 +14,7 @@ List with all repos and projects <a href="https://github.com/diegommagno/github-
 </p>
 
 ### Rocketseat
-Repository for projects I understood and can reproduce, created while studying at the programming school Rocketseat.
+Repository for projects I understood and can reproduce, created while studying at the coding school Rocketseat.
 
 #### Root
 - [Rocketseat](https://github.com/diegommagno/rocketseat)
@@ -45,12 +45,12 @@ Repository for commercial projects.
 <br/>
 
 ---
-### Ocean Labs
+### DMM Studio
 Repositories for public and private projects.
 
 #### Root
-- [Ocean Labs](https://github.com/diegommagno/ocean-labs)
-- [Ocean Labs Private](https://github.com/diegommagno/ocean-labs-private)
+- [DMM Studio](https://github.com/diegommagno/dmm-studio)
+- [DMM Studio Private](https://github.com/diegommagno/dmm-studio-private)
 
 
 <br/>
