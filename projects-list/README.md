@@ -143,6 +143,7 @@ Repository for commercial projects.
 Repositories for public and private projects.
 
 ### Root
+- dmm.studio [private repo](https://github.com/diegommagno/dmm.studio) 𒑰 [live preview](http://dmm.studio/) 
 - [dmm-studio](https://github.com/diegommagno/dmm-studio)
 - [dmm-studio-private](https://github.com/diegommagno/dmm-studio-private)
 
