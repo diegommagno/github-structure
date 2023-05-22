@@ -143,8 +143,8 @@ Repository for commercial projects.
 Repositories for public and private projects.
 
 ### Root
-- [DMM Studio](https://github.com/diegommagno/dmm-studio)
-- [DMM Studio Private](https://github.com/diegommagno/dmm-studio-private)
+- [dmm-studio](https://github.com/diegommagno/dmm-studio)
+- [dmm-studio-private](https://github.com/diegommagno/dmm-studio-private)
 
 #### Websites
 - [Apple](https://github.com/diegommagno/ocean-labs/tree/main/main/websites/apple)
