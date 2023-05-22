@@ -22,6 +22,9 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Ignite](https://github.com/diegommagno/rocketseat/tree/main/ignite)
 <br/>
 
+#### Explorer
+- [explorer-spa-universe](https://github.com/diegommagno/explorer-spa-universe)
+
 #### Events
 ##### Ignite Lab
 - [Design System](https://github.com/diegommagno/ignite-lab-design-system)
@@ -29,6 +32,9 @@ Repository for projects I understood and can reproduce, created while studying a
 ##### Explorer Lab
 - [RocketPay pt-br](https://github.com/diegommagno/explorer-lab-rocketpay)
 - [RocketPay en](https://github.com/diegommagno/explorer-lab-rocketpay-en)
+
+##### Explorer GCC
+- [explorer-gcc-findafriend](https://github.com/diegommagno/explorer-gcc-findafriend)
 
 
 <br/>
