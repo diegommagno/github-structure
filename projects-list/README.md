@@ -159,19 +159,19 @@ Repositories for public and private projects.
 - [dmm-studio-private](https://github.com/diegommagno/dmm-studio-private)
 
 #### Websites
-- [Apple](https://github.com/diegommagno/ocean-labs/tree/main/main/websites/apple)
-- [Sushi](https://github.com/diegommagno/ocean-labs/tree/main/main/websites/sushi)
+- [Apple](https://github.com/diegommagno/dmm-studio/tree/main/main/websites/apple)
+- [Sushi](https://github.com/diegommagno/dmm-studio/tree/main/main/websites/sushi)
 
 <br/>
 
 ### Components
 #### Dropdowns
-- [dropdown-1](https://github.com/diegommagno/ocean-labs/tree/main/main/components/dropdowns/dropdown-1)
+- [dropdown-1](https://github.com/diegommagno/dmm-studio/tree/main/main/components/dropdowns/dropdown-1)
 
 #### Navigation bars
 ##### JavaScript
-- [navbar-1](https://github.com/diegommagno/ocean-labs/tree/main/main/components/navigation-bars/javascript/navbar-1)
-- [navbar-2](https://github.com/diegommagno/ocean-labs/tree/main/main/components/navigation-bars/javascript/navbar-2)
+- [navbar-1](https://github.com/diegommagno/dmm-studio/tree/main/main/components/navigation-bars/javascript/navbar-1)
+- [navbar-2](https://github.com/diegommagno/dmm-studio/tree/main/main/components/navigation-bars/javascript/navbar-2)
 
 
 <br/>
