@@ -54,6 +54,10 @@ Repository for projects I understood and can reproduce, created while studying a
 - [18 - Character Card](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/18-character-card)
 - [19 - Transport Widget](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/19-transport-widget)
 - [20 - Hover Gallery](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/20-hover-gallery)
+- [21 - Shopping Cart](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/21-shopping-cart)
+- [22 - Profile Settings](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/22-profile-settings)
+- [23 - Multi Step Form](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/23-multi-step-form)
+- [24 - Light Adjustments](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/24-light-adjustments)
 
 ##### DevLinks
 - [DevLinks](https://github.com/diegommagno/rocketseat/tree/main/events/devlinks)
@@ -64,7 +68,6 @@ Repository for projects I understood and can reproduce, created while studying a
 - [NLW World Cup - Card](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-copa/card/pt-br)
 - [NLW eSports Explorer - Games](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-esports/explorer)
 - [NLW eSports Explorer - Cinema](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-esports/explorer/challenge/en)
-- [NLW Return Origin - DoctorCare](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-return/origin)
 
 ##### Zero to First Job Journey
 - [Horror Game of the Year](https://github.com/diegommagno/rocketseat/tree/main/events/zero-to-first-job-journey)
@@ -83,7 +86,13 @@ Repository for projects I understood and can reproduce, created while studying a
 #### Root
 - [Explorer](https://github.com/diegommagno/rocketseat/tree/main/explorer)
 
+#### Events
+- [Project 01 - FindAFriend](https://github.com/diegommagno/rocketseat/tree/main/explorer/events/green-chain-challenge/find-a-friend)
+
 #### Stages
+
+##### Intensive Stages 01 to 04
+- [Explore without limits](https://github.com/diegommagno/rocketseat/tree/main/explorer/intensive-stages-01-to-04/)
 
 ##### Stage 02
 
