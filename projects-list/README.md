@@ -16,6 +16,7 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Rocketseat](https://github.com/diegommagno/rocketseat)
 - [Explorer](https://github.com/diegommagno/rocketseat/tree/main/explorer)
 - [Ignite](https://github.com/diegommagno/rocketseat/tree/main/ignite)
+- [Events](https://github.com/diegommagno/rocketseat/tree/main/events)
 
 ### Events
 ##### Ignite Lab
