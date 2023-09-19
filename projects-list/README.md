@@ -167,8 +167,8 @@ Repository for projects I understood and can reproduce, created while studying a
 Repository for commercial projects.
 
 - afsaude.com.br [private repo](https://github.com/diegommagno/business-afsaude.com.br) 𒑰 [live preview](https://afsaude.com.br/) 
-- cemianko.ink [private repo](https://github.com/diegommagno/business-cemianko.ink)
-- nutrilazarini.com.br [private repo](https://github.com/diegommagno/business-lazarini)
+- inkedsoul.co.uk [private repo](https://github.com/diegommagno/business-inkedsoul.co.uk)
+- gabilazarini.com [private repo](https://github.com/diegommagno/business-lazarini)
 
 <br/>
 
