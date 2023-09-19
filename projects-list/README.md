@@ -78,6 +78,7 @@ Repository for projects I understood and can reproduce, created while studying a
 
 ##### Next Level Week
 - [NLW Spacetime - Time Capsule](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2023/nlw-spacetime/explorer)
+- [NLW AI - Shorts Summary](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2023/nlw-ai/explorer/foundations)
 - [NLW World Cup - Games Calendar](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-copa/explorer)
 - [NLW World Cup - Card](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-copa/card/pt-br)
 - [NLW eSports Explorer - Games](https://github.com/diegommagno/rocketseat/tree/main/events/next-level-week/2022/nlw-esports/explorer)
