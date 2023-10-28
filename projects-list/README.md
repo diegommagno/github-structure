@@ -72,6 +72,9 @@ Repository for projects I understood and can reproduce, created while studying a
 - [35 - Drink Water Reminder](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/35-drink-water-reminder)
 - [36 - Nutritional Table](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/36-nutritional-table)
 - [37 - Sleep App for Apple Watch](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/37-sleep-app-for-apple-watch)
+- [38 - Cards Quiz](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/38-cards-quiz)
+- [39 - Product Review](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/39-product-review)
+- [40 - Newsletter Page](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/40-newsletter-page)
 
 ##### DevLinks
 - [DevLinks](https://github.com/diegommagno/rocketseat/tree/main/events/devlinks)
