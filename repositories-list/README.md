@@ -25,6 +25,8 @@ Repository for projects I understood and can reproduce, created while studying a
 
 #### Explorer
 - [explorer-spa-universe](https://github.com/diegommagno/explorer-spa-universe)
+- [explorer-rocketmovies](https://github.com/diegommagno/explorer-rocketmovies)
+- [explorer-rocketnotes](https://github.com/diegommagno/explorer-rocketnotes)
 
 #### Events
 ##### Ignite Lab
