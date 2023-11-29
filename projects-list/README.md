@@ -150,6 +150,10 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Project 03 - GitHub Favorites](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-06/github-favorites)
 - [Project 04 - GitFav](https://github.com/diegommagno/rocketseat/tree/main/explorer/stage-06/gitfav)
 
+##### Stage 09
+- [Project 01 - Rocket Notes](https://github.com/diegommagno/explorer-rocketnotes)
+- [Project 02 - RocketMovies](https://github.com/diegommagno/explorer-rocketmovies)
+
 <br/>
 
 ### Ignite Bootcamp
