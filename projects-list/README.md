@@ -63,7 +63,7 @@ Repository for projects I understood and can reproduce, created while studying a
 - [26 - Receita Junina](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/26-receita-junina)
 - [27 - 404 Page Not Found](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/27-404-page-not-found)
 - [28 - AI Platform](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/28-ai-platform)
-- [29 - Before and After](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/29-before-and-after)
+- [29 - Before and After](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/29-before-and-after-ai)
 - [30 - AI Movie Suggestions](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/30-ai-movie-suggestions)
 - [31 - AI YouTube Transcription](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/31-ai-youtube-transcription)
 - [32 - AI SQL App Translation](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/32-ai-sql-app-translation)
