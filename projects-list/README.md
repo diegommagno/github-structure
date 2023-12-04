@@ -61,7 +61,7 @@ Repository for projects I understood and can reproduce, created while studying a
 - [24 - Light Adjustments](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/24-light-adjustments)
 - [25 - VR Player](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/25-vr-player)
 - [26 - Receita Junina](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/26-receita-junina)
-- [27 - 404 Page Not Found](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/27-page-not-found)
+- [27 - 404 Page Not Found](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/27-404-page-not-found)
 - [28 - AI Platform](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/28-ai-platform)
 - [29 - Before and After](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/29-before-and-after)
 - [30 - AI Movie Suggestions](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/30-ai-movie-suggestions)
