@@ -189,8 +189,8 @@ Repositories for public and private projects.
 - [dmm-studio-private](https://github.com/diegommagno/dmm-studio-private)
 
 #### Websites
-- [Apple](https://github.com/diegommagno/dmm-studio/tree/main/main/websites/apple)
-- [Sushi](https://github.com/diegommagno/dmm-studio/tree/main/main/websites/sushi)
+- [Apple](https://github.com/diegommagno/dmm-studio/tree/main/websites/apple/01-main-website)
+- [Sushi](https://github.com/diegommagno/dmm-studio/tree/main/websites/sushi)
 
 <br/>
 
