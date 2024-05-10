@@ -99,13 +99,10 @@ Repository for projects I understood and can reproduce, created while studying a
 
 <br/>
 
-### Explorer Course
+### Explorer Course (Full-Stack)
 
 #### Root
 - [Explorer](https://github.com/diegommagno/rocketseat/tree/main/explorer)
-
-#### Events
-- [Project 01 - FindAFriend](https://github.com/diegommagno/rocketseat/tree/main/explorer/events/green-chain-challenge/find-a-friend)
 
 #### Stages
 
