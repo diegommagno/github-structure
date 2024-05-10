@@ -37,8 +37,7 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Tailwind Dashboard](https://github.com/diegommagno/rocketseat-tailwind-next)
 
 
-##### boracodar.dev
-##### Weekly challenges proposed by Rocketseat, the Figma is provided and I will code from scratch.
+##### boracodar.dev ~ Weekly challenges by Rocketseat, the Figma is provided and I code from scratch.
 - [01 - Music Player](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/01-music-player)
 - [02 - Product Card](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/02-product-card)
 - [03 - Buttons and Cursors](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/03-buttons-and-cursors)
@@ -163,12 +162,6 @@ Repository for projects I understood and can reproduce, created while studying a
 
 <br/>
 
-### Discover
-#### Root
-- [Discover](https://github.com/diegommagno/rocketseat/tree/main/discover)
-
-<br/>
-
 ---
 
 ## Business
@@ -191,7 +184,9 @@ Repositories for public and private projects.
 
 #### Websites
 - [Apple](https://github.com/diegommagno/dmm-studio/tree/main/websites/apple/01-main-website)
-- [Sushi](https://github.com/diegommagno/dmm-studio/tree/main/websites/sushi)
+- [Sushi](https://github.com/diegommagno/dmm-studio/tree/main/websites/sushi) ~ Unfinished
+- [Responsive Portfolio 01](https://github.com/diegommagno/dmm-studio/tree/main/websites/portfolio/01)
+- [Responsive Portfolio 02](https://github.com/diegommagno/dmm-studio/tree/main/websites/portfolio/02)
 
 <br/>
 
