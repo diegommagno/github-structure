@@ -33,6 +33,10 @@ Repository for projects I understood and can reproduce, created while studying a
 - [RocketLinks](https://github.com/diegommagno/rocketseat/tree/main/events/explorer-marathon/explorer-marathon-02/rocketlinks)
 - [RocketCoffee](https://github.com/diegommagno/rocketseat/tree/main/events/explorer-marathon/explorer-marathon-03/rocketcoffee)
 
+##### Mastering Tailwind CSS
+- [Tailwind Dashboard](https://github.com/diegommagno/rocketseat-tailwind-next)
+
+
 ##### boracodar.dev
 ##### Weekly challenges proposed by Rocketseat, the Figma is provided and I will code from scratch.
 - [01 - Music Player](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/01-music-player)
