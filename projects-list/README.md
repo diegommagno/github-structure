@@ -18,6 +18,10 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Ignite](https://github.com/diegommagno/rocketseat/tree/main/ignite)
 - [Events](https://github.com/diegommagno/rocketseat/tree/main/events)
 
+### Courses
+##### Mastering Tailwind CSS
+- [Tailwind Dashboard](https://github.com/diegommagno/rocketseat-tailwind-next)
+
 ### Events
 ##### Ignite Lab
 - [Events Platform](https://github.com/diegommagno/rocketseat/tree/main/events/ignite-lab/events-platform)
@@ -32,10 +36,6 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Crystal Ball](https://github.com/diegommagno/rocketseat/tree/main/events/explorer-marathon/explorer-marathon-01/crystal-ball)
 - [RocketLinks](https://github.com/diegommagno/rocketseat/tree/main/events/explorer-marathon/explorer-marathon-02/rocketlinks)
 - [RocketCoffee](https://github.com/diegommagno/rocketseat/tree/main/events/explorer-marathon/explorer-marathon-03/rocketcoffee)
-
-##### Mastering Tailwind CSS
-- [Tailwind Dashboard](https://github.com/diegommagno/rocketseat-tailwind-next)
-
 
 ##### boracodar.dev ~ Weekly challenges by Rocketseat, the Figma is provided and I code from scratch.
 - [01 - Music Player](https://github.com/diegommagno/rocketseat/tree/main/events/boracodar.dev/01-music-player)
