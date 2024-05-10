@@ -36,6 +36,10 @@ Repository for projects I understood and can reproduce, created while studying a
 - [RocketPay pt-br](https://github.com/diegommagno/explorer-lab-rocketpay)
 - [RocketPay en](https://github.com/diegommagno/explorer-lab-rocketpay-en)
 
+##### Mastering Tailwind CSS
+- [Tailwind Dashboard](https://github.com/diegommagno/rocketseat-tailwind-next)
+- [RocketPay en](https://github.com/diegommagno/explorer-lab-rocketpay-en)
+
 <br/>
 
 ---
