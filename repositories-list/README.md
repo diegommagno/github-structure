@@ -23,6 +23,10 @@ Repository for projects I understood and can reproduce, created while studying a
 - [Events](https://github.com/diegommagno/rocketseat/tree/main/events)
 <br/>
 
+#### Courses
+##### Mastering Tailwind CSS
+- [Tailwind Dashboard](https://github.com/diegommagno/rocketseat-tailwind-next)
+
 #### Explorer
 - [explorer-spa-universe](https://github.com/diegommagno/explorer-spa-universe)
 - [explorer-rocketmovies](https://github.com/diegommagno/explorer-rocketmovies)
@@ -36,8 +40,7 @@ Repository for projects I understood and can reproduce, created while studying a
 - [RocketPay pt-br](https://github.com/diegommagno/explorer-lab-rocketpay)
 - [RocketPay en](https://github.com/diegommagno/explorer-lab-rocketpay-en)
 
-##### Mastering Tailwind CSS
-- [Tailwind Dashboard](https://github.com/diegommagno/rocketseat-tailwind-next)
+
 
 <br/>
 
