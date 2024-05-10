@@ -36,10 +36,6 @@ Repository for projects I understood and can reproduce, created while studying a
 - [RocketPay pt-br](https://github.com/diegommagno/explorer-lab-rocketpay)
 - [RocketPay en](https://github.com/diegommagno/explorer-lab-rocketpay-en)
 
-##### Explorer GCC
-- [explorer-gcc-findafriend](https://github.com/diegommagno/explorer-gcc-findafriend)
-
-
 <br/>
 
 ---
